@@ -1,0 +1,12 @@
+Compliance Guidelines
+
+Cloud environments should maintain:
+
+- Audit logging
+- Access reviews
+- Encryption controls
+- Security monitoring
+- Change management
+- Incident tracking
+
+Security controls should align with industry frameworks such as NIST and CIS.

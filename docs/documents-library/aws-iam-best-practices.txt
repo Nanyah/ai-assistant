@@ -1,0 +1,32 @@
+AWS IAM Security Best Practices
+
+Purpose:
+This document defines security standards for managing identities and access within AWS environments.
+
+1. Least Privilege Access
+
+Users, applications, and services should only receive permissions required to perform their intended functions.
+
+2. IAM Roles
+
+Applications running on AWS compute services should use IAM roles instead of long-term access keys.
+
+3. Multi-Factor Authentication
+
+MFA should be enabled for all privileged accounts.
+
+4. Access Reviews
+
+IAM permissions should be reviewed regularly to remove unnecessary access.
+
+5. Temporary Credentials
+
+Temporary credentials should be used whenever possible.
+
+6. Logging and Monitoring
+
+AWS CloudTrail should be enabled to monitor API activity and user actions.
+
+7. Separation of Duties
+
+Administrative, development, and audit responsibilities should be separated.

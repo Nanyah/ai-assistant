@@ -1,0 +1,12 @@
+Cloud Security Policy
+
+All cloud workloads must follow security principles including:
+
+- Encryption of sensitive data
+- Network segmentation
+- Identity-based access control
+- Secure software development practices
+- Continuous monitoring
+- Vulnerability management
+
+Applications must implement security controls throughout the development lifecycle.

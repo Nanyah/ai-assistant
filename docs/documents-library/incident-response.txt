@@ -1,0 +1,18 @@
+Incident Response Procedure
+
+Security incidents follow these phases:
+
+1. Identification
+Detect and validate security events.
+
+2. Containment
+Limit impact and prevent further damage.
+
+3. Eradication
+Remove malicious activity and vulnerabilities.
+
+4. Recovery
+Restore affected systems.
+
+5. Lessons Learned
+Document improvements.
